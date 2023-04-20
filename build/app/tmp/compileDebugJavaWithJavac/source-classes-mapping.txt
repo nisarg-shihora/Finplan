@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/mmas/money_assistant_2608/BuildConfig.java
+ com.mmas.money_assistant_2608.BuildConfig
